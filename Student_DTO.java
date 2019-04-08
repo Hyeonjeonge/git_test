@@ -1,7 +1,7 @@
 package DAO_DTO;
-
+sdfsdfsdf
 public class Student_DTO {
-	
+	sfsdfsdfsdfsdfsdsfsd
 	private String StNo,StNa,StGr,StDe,StPw,StSe,StBd,StPn,StEm,StCr,StPt;
 	private String SbML,SbNo,SbNa,SbTi,SbCr;
 	private String  RgStNo, RgSbNo ;
