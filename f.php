@@ -1,5 +1,5 @@
 <?php
 
-echo dddddd;
+와다 바보 바보 와다 
 
 ?>
